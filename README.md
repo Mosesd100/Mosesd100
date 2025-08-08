@@ -14,7 +14,6 @@ CopyEdit
 Risk Assessments, Network Security, Endpoint security,
 - **Tools**: Nmap, Metasploit, Wireshark, Google Cloud, Wazuh, PFSense
 ### �� GitHub Stats
-![GitHub Stats](https://github-readme-
-stats.vercel.app/api?username=yourusername&amp;show_icons=true&amp;theme=radical)
+![GitHub Stats](https://github.com/Mosesd100)
 ### ✨ Fun Fact
 I have explored 30 different countries
